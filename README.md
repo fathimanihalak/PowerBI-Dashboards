@@ -13,7 +13,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Tools:** Power Query, DAX  
 - 📂 File: `Sales_Analysis.pbix`  
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
-- [Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png) 
+- ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png) 
 
 
 ### 2. Employee Performance Analysis  
