@@ -12,7 +12,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Highlights:** Revenue by product, customer segmentation, regional demand.  
 - **Tools:** Power Query, DAX  
 - 📂 File: `Sales_Analysis.pbix`  
-- 🖼️ Screenshot: ![Sales Analysis](Sales_Analysis_Dashboard/screenshot3.png)  
+- 🖼️ Screenshot: ![Sales Analysis](2025-01-30 (64).png)  
 
 
 ### 2. Employee Performance Analysis  
