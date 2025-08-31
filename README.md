@@ -14,7 +14,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - 📂 File: `[Sales_Analysis.pbix]'(https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
 
-- 📂 File: `[Sales_Analysis2.pbix]
+- 📂 File: `[Sales_Analysis2.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/salesreport.pbix)
 - ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png)
 
   ---
