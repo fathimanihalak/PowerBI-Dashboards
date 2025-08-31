@@ -13,7 +13,9 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Tools:** Power Query, DAX  
 - 📂 File: `Sales_Analysis.pbix`  
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
-- ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png) 
+- The dataset enabled me to visualize and analyze key aspects of the business, offering valuable insights into various performance areas. I was able to assess overall sales performance by examining total sales, customer count, and order volume. Through customer segmentation, I identified how sales were distributed across different segments such as Consumer, Corporate, and Home Office. The data also provided product insights, helping to pinpoint top-performing categories and sub-categories based on sales figures. Additionally, by analyzing geographical trends, I was able to observe sales distribution across various regions and states, highlighting both high and low-performing areas.
+- ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png)
+- In this task, I developed a sales analysis dashboard for a company, analyzing key aspects such as revenue trends, sales performance, and customer segmentation. The dashboard provided valuable insights for business decision-making
 
 
 ### 2. Employee Performance Analysis  
