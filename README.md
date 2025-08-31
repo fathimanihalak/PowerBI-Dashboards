@@ -32,7 +32,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Objective:** HR analytics based on Kaggle dataset.  
 - **Highlights:** Attrition analysis, demographics, job satisfaction.  
 - **Tools:** Power Query, DAX  
-- 📂 File: `Employee_Analysis.pbix`  
+- 📂 File: [Employee_Analysis.pbixh](ttps://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/employeeanalysis.pbix)  
 - 🖼️ Screenshot: ![Employee Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(62).png)  
 
 ---
