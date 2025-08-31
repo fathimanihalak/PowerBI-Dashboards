@@ -30,7 +30,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Highlights:** Attrition analysis, demographics, job satisfaction.  
 - **Tools:** Power Query, DAX  
 - 📂 File: `Employee_Analysis.pbix`  
-- 🖼️ Screenshot: ![Employee Analysis](Employee_Analysis_Kaggle/screenshot2.png)  
+- 🖼️ Screenshot: ![Employee Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(62).png)  
 
 ---
 
