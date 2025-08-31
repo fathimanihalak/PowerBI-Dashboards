@@ -21,7 +21,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Highlights:** Department-wise performance, KPIs, and efficiency trends.  
 - **Tools:** Power Query, DAX  
 - 📂 File: `Employee_Performance.pbix`  
-- 🖼️ Screenshot: ![Employee Performance](Employee_Performance_Dashboard/screenshot1.png)  
+- 🖼️ Screenshot: ![Employee Performance](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(30).png)  
 
 ---
 
