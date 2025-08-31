@@ -11,10 +11,10 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Objective:** Analyze sales performance, revenue, and customer behavior.  
 - **Highlights:** Revenue by product, customer segmentation, regional demand.  
 - **Tools:** Power Query, DAX   
-- 📂 File: `[Sales_Analysis.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
+- 📂 File: [Sales_Analysis.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
 
-- 📂 File: `[Sales_Analysis2.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/salesreport.pbix)
+- 📂 File: [Sales_Analysis2.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/salesreport.pbix)
 - ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png)
 
   ---
@@ -23,7 +23,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Objective:** Evaluate employee productivity and contributions.  
 - **Highlights:** Department-wise performance, KPIs, and efficiency trends.  
 - **Tools:** Power Query, DAX  
-- 📂 File: `Employee_Performance.pbix`  
+- 📂 File: [Employee_Performance.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/employeeanalysis.pbix) 
 - 🖼️ Screenshot: ![Employee Performance](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(30).png)  
 
 ---
