@@ -10,8 +10,8 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 ### 1. Sales Analysis Dashboard  
 - **Objective:** Analyze sales performance, revenue, and customer behavior.  
 - **Highlights:** Revenue by product, customer segmentation, regional demand.  
-- **Tools:** Power Query, DAX  
-- 📂 File: `Sales_Analysis.pbix`  
+- **Tools:** Power Query, DAX   
+- 📂 File: `[Sales_Analysis.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
 
 - ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/2025-01-30%20(64).png)
