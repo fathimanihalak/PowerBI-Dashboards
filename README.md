@@ -11,7 +11,7 @@ They showcase skills in **data cleaning, transformation, visualization, and busi
 - **Objective:** Analyze sales performance, revenue, and customer behavior.  
 - **Highlights:** Revenue by product, customer segmentation, regional demand.  
 - **Tools:** Power Query, DAX   
-- 📂 File: `[Sales_Analysis.pbix]'(https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
+- 📂 File: `[Sales_Analysis.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/sales2.pbix) 
 - 🖼️ Screenshot: ![Sales Analysis](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/Screenshot%20(4).png)
 
 - 📂 File: `[Sales_Analysis2.pbix](https://github.com/fathimanihalak/PowerBI-Dashboards/blob/main/salesreport.pbix)
